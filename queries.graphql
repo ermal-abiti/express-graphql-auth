@@ -1,0 +1,16 @@
+# Use these queries to test the api
+
+query ProtectedQuery {
+  protectedQuery
+}
+query Login {
+  login(input: {username: "some_user", password: "some_user"}) {
+    token
+  }
+}
+
+mutation Register {
+  createUser(input: {username: "some_user", password: "some_user"}) {
+    token
+  }
+}
