@@ -1,6 +1,6 @@
 # Express + GraphQL Starter with JWT Authentication
 
-![graphql](https://assets.stickpng.com/images/62a86c5314a38cce0c371c0d.png)
+![graphql](https://factbranch.com/media/apps/icons/graphql.png)
 
 1. After cloning the repo, create an .env file in the root path:
 ```bash
